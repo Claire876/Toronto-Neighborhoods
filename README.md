@@ -1,2 +1,2 @@
 # Toronto-Neighborhoods
-Clustering of Toronto's neighborhoods
+Coursera activity: clustering of Toronto's neighborhoods
